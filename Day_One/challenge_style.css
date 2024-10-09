@@ -1,0 +1,22 @@
+﻿body
+{
+    font-family: serif;
+    line-height: 1.5;
+}
+
+.product{
+    border: solid 4px black;
+}
+.product-title{
+    text-align: center;
+    font-size: 22px;
+    text-transform: uppercase;
+}
+.price {
+    font-size: 24px;
+}
+.shippng {
+    font-size: 12px;
+    text-transform: uppercase;
+    font-weight: bold;
+}

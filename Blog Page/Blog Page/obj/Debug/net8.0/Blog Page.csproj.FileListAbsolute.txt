@@ -1,0 +1,30 @@
+C:\Users\Dev40\Desktop\Chandani Singh\Html_CSS\Blog Page\Blog Page\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Dev40\Desktop\Chandani Singh\Html_CSS\Blog Page\Blog Page\bin\Debug\net8.0\appsettings.json
+C:\Users\Dev40\Desktop\Chandani Singh\Html_CSS\Blog Page\Blog Page\bin\Debug\net8.0\Blog Page.staticwebassets.runtime.json
+C:\Users\Dev40\Desktop\Chandani Singh\Html_CSS\Blog Page\Blog Page\bin\Debug\net8.0\Blog Page.exe
+C:\Users\Dev40\Desktop\Chandani Singh\Html_CSS\Blog Page\Blog Page\bin\Debug\net8.0\Blog Page.deps.json
+C:\Users\Dev40\Desktop\Chandani Singh\Html_CSS\Blog Page\Blog Page\bin\Debug\net8.0\Blog Page.runtimeconfig.json
+C:\Users\Dev40\Desktop\Chandani Singh\Html_CSS\Blog Page\Blog Page\bin\Debug\net8.0\Blog Page.dll
+C:\Users\Dev40\Desktop\Chandani Singh\Html_CSS\Blog Page\Blog Page\bin\Debug\net8.0\Blog Page.pdb
+C:\Users\Dev40\Desktop\Chandani Singh\Html_CSS\Blog Page\Blog Page\obj\Debug\net8.0\Blog Page.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dev40\Desktop\Chandani Singh\Html_CSS\Blog Page\Blog Page\obj\Debug\net8.0\Blog Page.AssemblyInfoInputs.cache
+C:\Users\Dev40\Desktop\Chandani Singh\Html_CSS\Blog Page\Blog Page\obj\Debug\net8.0\Blog Page.AssemblyInfo.cs
+C:\Users\Dev40\Desktop\Chandani Singh\Html_CSS\Blog Page\Blog Page\obj\Debug\net8.0\Blog Page.csproj.CoreCompileInputs.cache
+C:\Users\Dev40\Desktop\Chandani Singh\Html_CSS\Blog Page\Blog Page\obj\Debug\net8.0\Blog Page.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Dev40\Desktop\Chandani Singh\Html_CSS\Blog Page\Blog Page\obj\Debug\net8.0\Blog Page.RazorAssemblyInfo.cache
+C:\Users\Dev40\Desktop\Chandani Singh\Html_CSS\Blog Page\Blog Page\obj\Debug\net8.0\Blog Page.RazorAssemblyInfo.cs
+C:\Users\Dev40\Desktop\Chandani Singh\Html_CSS\Blog Page\Blog Page\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Dev40\Desktop\Chandani Singh\Html_CSS\Blog Page\Blog Page\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Dev40\Desktop\Chandani Singh\Html_CSS\Blog Page\Blog Page\obj\Debug\net8.0\staticwebassets\msbuild.Blog Page.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Dev40\Desktop\Chandani Singh\Html_CSS\Blog Page\Blog Page\obj\Debug\net8.0\staticwebassets\msbuild.build.Blog Page.props
+C:\Users\Dev40\Desktop\Chandani Singh\Html_CSS\Blog Page\Blog Page\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Blog Page.props
+C:\Users\Dev40\Desktop\Chandani Singh\Html_CSS\Blog Page\Blog Page\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Blog Page.props
+C:\Users\Dev40\Desktop\Chandani Singh\Html_CSS\Blog Page\Blog Page\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Dev40\Desktop\Chandani Singh\Html_CSS\Blog Page\Blog Page\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Dev40\Desktop\Chandani Singh\Html_CSS\Blog Page\Blog Page\obj\Debug\net8.0\scopedcss\bundle\Blog Page.styles.css
+C:\Users\Dev40\Desktop\Chandani Singh\Html_CSS\Blog Page\Blog Page\obj\Debug\net8.0\scopedcss\projectbundle\Blog Page.bundle.scp.css
+C:\Users\Dev40\Desktop\Chandani Singh\Html_CSS\Blog Page\Blog Page\obj\Debug\net8.0\Blog Page.dll
+C:\Users\Dev40\Desktop\Chandani Singh\Html_CSS\Blog Page\Blog Page\obj\Debug\net8.0\refint\Blog Page.dll
+C:\Users\Dev40\Desktop\Chandani Singh\Html_CSS\Blog Page\Blog Page\obj\Debug\net8.0\Blog Page.pdb
+C:\Users\Dev40\Desktop\Chandani Singh\Html_CSS\Blog Page\Blog Page\obj\Debug\net8.0\Blog Page.genruntimeconfig.cache
+C:\Users\Dev40\Desktop\Chandani Singh\Html_CSS\Blog Page\Blog Page\obj\Debug\net8.0\ref\Blog Page.dll

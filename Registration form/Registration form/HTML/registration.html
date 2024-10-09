@@ -1,0 +1,232 @@
+﻿
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Registration</title>
+
+    <!-- Bootstrap CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+
+    <!--Bootstrap 5 icons CDN-->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css">
+
+    <!-- jQuery library -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+
+    <!-- Latest compiled JavaScript -->
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" 
+            integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+
+
+    <!-- External CSS link -->
+    <link rel="stylesheet" href="../css/registration.css" />
+
+</head>
+<body>
+    <center>
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+                    <h1 class="heading">Register</h1>
+                    <p class="desc"> Create your account. It's take only a minute.'</p>
+                </div>
+            </div>
+
+            <form class="needs-validation" id="form" novalidate onsubmit="return validateForm();">
+                <div class="row">
+                    <div class="form-group col-md-4 input-value">
+
+                        <label for="fname">Firstname</label>
+                        <input type="text"
+                               name="fname"
+                               class="form-control"
+                               id="fname"
+                               onkeydown="return /[a-zA-Z]/i.test(event.key)"
+                               placeholder="firstname"
+                               required />
+
+                        <div class="invalid-feedback">
+                            Firstname is required.
+                        </div>
+                    </div>
+
+                    <div class="form-group col-md-4 input-value">
+                        <label for="lname">Lastname</label>
+                        <input type="text"
+                               name="lname"
+                               class="form-control"
+                               id="lname"
+                               onkeydown="return /[a-zA-Z]/i.test(event.key)"
+                               placeholder="lastname"
+                               required />
+
+                        <div class="invalid-feedback">
+                            Lastname is required.
+                        </div>
+                    </div>
+
+                    <div class="form-group col-md-4 input-value">
+                        <label for="email">Email</label>
+                        <input type="email"
+                               name="email"
+                               class="form-control"
+                               id="email"
+                               placeholder="abc@gmail.com"
+                               required />
+
+                        <div class="invalid-feedback">
+                            Enter Valid Email.
+                        </div>
+                    </div>
+
+                    <div class="form-group col-md-6 input-value">
+                        <label for="lname">Password</label>
+                        <input type="password"
+                               name="password"
+                               class="form-control"
+                               id="password"
+                               placeholder="@123ABc"
+                               required />
+
+                        <div class="invalid-feedback">
+                            Enter Valid Password [ like - Xyza@134 ].
+                        </div>
+                    </div>
+
+                    <div class="form-group col-md-6 input-value">
+                        <label for="gender">Gender</label><br />
+                        <input type="radio" name="gender" id="gender" value="Male"><b>Male</b>
+                        <input type="radio" name="gender" id="gender" value="Female" required><b>Female</b>
+                        <input type="radio" name="gender" id="gender" value="Other"><b>Other</b>
+
+                        <div class="invalid-feedback">
+                            Select atleast one gender.
+                        </div>
+                    </div>
+
+
+                    <div class="form-group col-md-6 input-value">
+                        <label for="phone">Phone</label>
+                        <input type="number"
+                               name="phone"
+                               maxlength="10"
+                               class="form-control"
+                               id="phone"
+                               value=""
+                               oninput="javascript: if (this.value.length > this.maxLength) this.value = this.value.slice(0, this.maxLength);"
+                               placeholder="+91 0000000000"
+                               required />
+
+                        <div class="invalid-feedback">
+                            Enter 10 digit unique phone number.
+                        </div>
+                    </div>
+
+                    <div class="form-group col-md-6 input-value">
+                        <label for="country">Country</label>
+                        <select name="country" id="country" class="form-control" required>
+                            <option value="" disabled selected hidden>Country</option>
+                            <option value="India">India</option>
+                            <option value="USA">USA</option>
+                            <option value="UK">UK</option>
+                            <option value="Other">Other</option>
+                        </select>
+
+                        <div class="invalid-feedback">
+                            Select atleast one Country.
+                        </div>
+                    </div>
+
+                    <div class="form-group col-md-6 input-value">
+                        <label for="city">City</label>
+                        <input type="text"
+                               name="city"
+                               class="form-control"
+                               id="city"
+                               onkeydown="return /[a-zA-Z]/i.test(event.key)"
+                               placeholder="city"
+                               required />
+
+                        <div class="invalid-feedback">
+                            Enter valid city.
+                        </div>
+                    </div>
+
+                    <div class="action-button">
+                        <button type="reset" class="btn btn-info Reset" value="Reset">Reset</button>
+                        <button class="btn btn-success" id="submit" onclick="AddData()"> Insert </button>
+                        <button class="btn btn-warning Update" id="Update">Update</button>
+                    </div>
+                </div>
+            </form>
+            <hr />
+        </div>
+
+        <div id="displaytable" class="placeholder">
+
+            <!--Read Data-->
+            <section class="p-3">
+
+                <div class="row">
+                    <div class="col-md-12">
+                        <table class="table table-striped table-hover mt-3 text-center table-bordered center " id="crudTable">
+
+                            <thead>
+                                <tr>
+                                    <th>S.No</th>
+                                    <th>Firstname</th>
+                                    <th>Lastname</th>
+                                    <th>Email</th>
+                                    <th>Password</th>
+                                    <th>Gender</th>
+                                    <th>Phone</th>
+                                    <th>Country</th>
+                                    <th>City</th>
+                                    <th>Action</th>
+                                </tr>
+                            </thead>
+
+                            <tbody></tbody>
+
+                        </table>
+                    </div>
+                </div>
+            </section>
+
+        </div>
+    </center>
+
+    <!-- Option 1: Bootstrap Bundle with Popper -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"
+            integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
+
+    <script src="../javascript/registration.js"></script>
+
+    <script>
+        // Example starter JavaScript for disabling form submissions if there are invalid fields
+        (function () {
+            'use strict'
+
+            // Fetch all the forms we want to apply custom Bootstrap validation styles to
+            var forms = document.querySelectorAll('.needs-validation')
+
+            // Loop over them and prevent submission
+            Array.prototype.slice.call(forms)
+                .forEach(function (form) {
+                    form.addEventListener('submit', function (event) {
+                        if (!form.checkValidity()) {
+                            event.preventDefault()
+                            event.stopPropagation()
+                        }
+
+                        form.classList.add('was-validated')
+                    }, false)
+                })
+        })()
+    </script>
+</body>
+</html>

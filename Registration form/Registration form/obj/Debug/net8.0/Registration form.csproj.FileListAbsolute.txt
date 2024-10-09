@@ -1,0 +1,30 @@
+C:\Users\Dev40\Desktop\Chandani Singh\Html_CSS\Registration form\Registration form\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Dev40\Desktop\Chandani Singh\Html_CSS\Registration form\Registration form\bin\Debug\net8.0\appsettings.json
+C:\Users\Dev40\Desktop\Chandani Singh\Html_CSS\Registration form\Registration form\bin\Debug\net8.0\Registration form.staticwebassets.runtime.json
+C:\Users\Dev40\Desktop\Chandani Singh\Html_CSS\Registration form\Registration form\bin\Debug\net8.0\Registration form.exe
+C:\Users\Dev40\Desktop\Chandani Singh\Html_CSS\Registration form\Registration form\bin\Debug\net8.0\Registration form.deps.json
+C:\Users\Dev40\Desktop\Chandani Singh\Html_CSS\Registration form\Registration form\bin\Debug\net8.0\Registration form.runtimeconfig.json
+C:\Users\Dev40\Desktop\Chandani Singh\Html_CSS\Registration form\Registration form\bin\Debug\net8.0\Registration form.dll
+C:\Users\Dev40\Desktop\Chandani Singh\Html_CSS\Registration form\Registration form\bin\Debug\net8.0\Registration form.pdb
+C:\Users\Dev40\Desktop\Chandani Singh\Html_CSS\Registration form\Registration form\obj\Debug\net8.0\Registration form.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dev40\Desktop\Chandani Singh\Html_CSS\Registration form\Registration form\obj\Debug\net8.0\Registration form.AssemblyInfoInputs.cache
+C:\Users\Dev40\Desktop\Chandani Singh\Html_CSS\Registration form\Registration form\obj\Debug\net8.0\Registration form.AssemblyInfo.cs
+C:\Users\Dev40\Desktop\Chandani Singh\Html_CSS\Registration form\Registration form\obj\Debug\net8.0\Registration form.csproj.CoreCompileInputs.cache
+C:\Users\Dev40\Desktop\Chandani Singh\Html_CSS\Registration form\Registration form\obj\Debug\net8.0\Registration form.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Dev40\Desktop\Chandani Singh\Html_CSS\Registration form\Registration form\obj\Debug\net8.0\Registration form.RazorAssemblyInfo.cache
+C:\Users\Dev40\Desktop\Chandani Singh\Html_CSS\Registration form\Registration form\obj\Debug\net8.0\Registration form.RazorAssemblyInfo.cs
+C:\Users\Dev40\Desktop\Chandani Singh\Html_CSS\Registration form\Registration form\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Dev40\Desktop\Chandani Singh\Html_CSS\Registration form\Registration form\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Dev40\Desktop\Chandani Singh\Html_CSS\Registration form\Registration form\obj\Debug\net8.0\staticwebassets\msbuild.Registration form.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Dev40\Desktop\Chandani Singh\Html_CSS\Registration form\Registration form\obj\Debug\net8.0\staticwebassets\msbuild.build.Registration form.props
+C:\Users\Dev40\Desktop\Chandani Singh\Html_CSS\Registration form\Registration form\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Registration form.props
+C:\Users\Dev40\Desktop\Chandani Singh\Html_CSS\Registration form\Registration form\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Registration form.props
+C:\Users\Dev40\Desktop\Chandani Singh\Html_CSS\Registration form\Registration form\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Dev40\Desktop\Chandani Singh\Html_CSS\Registration form\Registration form\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Dev40\Desktop\Chandani Singh\Html_CSS\Registration form\Registration form\obj\Debug\net8.0\scopedcss\bundle\Registration form.styles.css
+C:\Users\Dev40\Desktop\Chandani Singh\Html_CSS\Registration form\Registration form\obj\Debug\net8.0\scopedcss\projectbundle\Registration form.bundle.scp.css
+C:\Users\Dev40\Desktop\Chandani Singh\Html_CSS\Registration form\Registration form\obj\Debug\net8.0\Registration form.dll
+C:\Users\Dev40\Desktop\Chandani Singh\Html_CSS\Registration form\Registration form\obj\Debug\net8.0\refint\Registration form.dll
+C:\Users\Dev40\Desktop\Chandani Singh\Html_CSS\Registration form\Registration form\obj\Debug\net8.0\Registration form.pdb
+C:\Users\Dev40\Desktop\Chandani Singh\Html_CSS\Registration form\Registration form\obj\Debug\net8.0\Registration form.genruntimeconfig.cache
+C:\Users\Dev40\Desktop\Chandani Singh\Html_CSS\Registration form\Registration form\obj\Debug\net8.0\ref\Registration form.dll
